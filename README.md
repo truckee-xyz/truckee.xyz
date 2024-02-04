@@ -1,5 +1,7 @@
 # truckee.xyz
 
+![truckee.xyz icom](./assets/truckee-xyz-background-1x-scale.png)
+
 Website source for [truckee.xyz](truckee.xyz) a place for links, news and information for Truckee, CA, USA
 
 ## Truckee Map
