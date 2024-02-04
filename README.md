@@ -2,6 +2,10 @@
 
 Website source for [truckee.xyz](truckee.xyz) a place for links, news and information for Truckee, CA, USA
 
+## Truckee Map
+<details>
+<summary>Click to view Town of Truckee Map</summary>
+
 ```geojson
 {
 "type": "FeatureCollection",
@@ -12,3 +16,6 @@ Website source for [truckee.xyz](truckee.xyz) a place for links, news and inform
 ]
 }
 ```
+
+</details>
+Map Data Provided By: https://data-townoftruckee.opendata.arcgis.com/maps/ca1a4dc2d95d412b8d7d3214a7ef221f
