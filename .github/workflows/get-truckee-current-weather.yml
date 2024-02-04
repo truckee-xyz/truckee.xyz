@@ -6,9 +6,11 @@ jobs:
     runs-on: ubuntu-latest
     name: A job to say hello
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
       - name: get-truckee-current-weather
         id: get-truckee-current-weather
-        uses: ./.github/actions/get-truckee-current-weather.yml
+        uses: ./.github/actions/action.yml
       # Use the output from the `get-truckee-current-weather` step
       - name: Get the output and put it in the current_weather.outfile
         run: echo "${{ steps.get-truckee-current-weather.outputs.time }}" > ./script-outputs/current_weather.output
