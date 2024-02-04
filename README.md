@@ -1,12 +1,12 @@
-# truckee.xyz
+# truckee.xyz ![truckee.xyz mini icon](./assets/truckee-xyz-icon-no-background-1x-scale.png)
 
-![truckee.xyz icom](./assets/truckee-xyz-background-1x-scale.png)
+![truckee.xyz icon](./assets/truckee-xyz-background-1x-scale.png)
 
-Website source for [truckee.xyz](truckee.xyz) a place for links, news and information for Truckee, CA, USA
+Website source for [truckee.xyz](truckee.xyz) a place for links, news and information for Truckee, CA, USA.
 
 ## Truckee Map
 <details>
-<summary>Click to view Town of Truckee Map</summary>
+<summary>Click to view the Town of Truckee Map</summary>
 
 ```geojson
 {
