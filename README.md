@@ -3,6 +3,7 @@
 ![truckee.xyz icon](./assets/truckee-xyz-background-1x-scale.png)
 
 Website source for [truckee.xyz](truckee.xyz) a place for links, news and information for Truckee, CA, USA.
+
 Copyright © 2024 truckee.xyz All Rights Reserved.
 
 ## Truckee Map
