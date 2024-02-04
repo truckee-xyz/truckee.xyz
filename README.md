@@ -22,4 +22,5 @@ Copyright © 2024 truckee.xyz All Rights Reserved.
 ```
 
 </details>
-Map Data Provided By: https://data-townoftruckee.opendata.arcgis.com/maps/ca1a4dc2d95d412b8d7d3214a7ef221f
+Map rendered natively in Github with GeoJSON
+Map Data Provided By https://data-townoftruckee.opendata.arcgis.com/maps/ca1a4dc2d95d412b8d7d3214a7ef221f
