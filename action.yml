@@ -5,4 +5,4 @@ outputs:
     description: 'current weather and date generated at'
 runs:
   using: 'docker'
-  image: './scripts/Dockerfile'
+  image: 'Dockerfile'
