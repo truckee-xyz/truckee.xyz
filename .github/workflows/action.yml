@@ -1,0 +1,13 @@
+name: 'Hello World'
+description: 'Greet someone and record the time'
+inputs:
+  who-to-greet:  # id of input
+    description: 'Who to greet'
+    required: true
+    default: 'World'
+outputs:
+  current_weather:
+    description: 'current weather and date generated at'
+runs:
+  using: 'docker'
+  image: './scripts/Dockerfile'
