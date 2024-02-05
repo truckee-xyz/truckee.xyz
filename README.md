@@ -1,4 +1,4 @@
-# truckee.xyz ![truckee.xyz mini icon](./assets/truckee-xyz-icon-no-background-1x-scale.png)
+# ![truckee.xyz mini icon](./assets/truckee-xyz-icon-no-background-1x-scale.png) truckee.xyz ![truckee.xyz mini icon](./assets/truckee-xyz-icon-no-background-1x-scale.png)
 
 ![truckee.xyz icon](./assets/truckee-xyz-background-1x-scale.png)
 
