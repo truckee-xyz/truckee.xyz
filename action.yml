@@ -1,8 +1,0 @@
-name: 'get-current-truckee-weather'
-description: 'get current truckee weather from NWS'
-outputs:
-  current_weather:
-    description: 'current weather and date generated at'
-runs:
-  using: 'docker'
-  image: 'Dockerfile'
